@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MoonGwangHee/movie_app_20210238/static/css/main.b0a6d614.css",
+    "main.js": "/MoonGwangHee/movie_app_20210238/static/js/main.6a72c984.js",
+    "index.html": "/MoonGwangHee/movie_app_20210238/index.html",
+    "main.b0a6d614.css.map": "/MoonGwangHee/movie_app_20210238/static/css/main.b0a6d614.css.map",
+    "main.6a72c984.js.map": "/MoonGwangHee/movie_app_20210238/static/js/main.6a72c984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a6d614.css",
+    "static/js/main.6a72c984.js"
+  ]
+}
